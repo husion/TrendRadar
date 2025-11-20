@@ -16,38 +16,27 @@ Anthropic
 新势力
 新能源
 电池
+自动驾驶
+车载
+
+人因照明
+显示
+影像
 
 大疆
 影石
 小米
 oppo
 vivo
-
-宇树
-智元
-灵犀
-
+华为
 字节
-bytedance
-张一鸣
-
 特斯拉
-马斯克
-
 微软
 Microsoft
-
 英伟达
 NVIDIA
-黄仁勋
 AMD
-
-iphone
-ipad
-mac
-ios
-
-自动驾驶
+Apple
 
 芯片
 光刻机
@@ -55,10 +44,8 @@ ios
 科技
 
 核能
-
 水电站
 雅鲁藏布江
-
 新质生产力
 
 月球
