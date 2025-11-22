@@ -1,8 +1,6 @@
 DeepSeek
-梁文锋
 Gemini
 Claude
-谷歌
 google
 gemini
 deepmind
@@ -10,12 +8,15 @@ chatgpt
 openai
 sora
 Anthropic
+NVIDIA
+AMD
+Microsoft
 
 比亚迪
 吉利
 新势力
 新能源
-电池
+固态电池
 自动驾驶
 车载
 
@@ -31,11 +32,6 @@ vivo
 华为
 字节
 特斯拉
-微软
-Microsoft
-英伟达
-NVIDIA
-AMD
 Apple
 
 芯片
